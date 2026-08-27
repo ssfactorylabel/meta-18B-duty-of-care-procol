@@ -1,4 +1,8 @@
 ![SSFLABS Logo](assets-ssflabs-logo.jpg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22131951.svg)](https://doi.org/10.5281/zenodo.22131951)
+
+**DOI:** https://doi.org/10.5281/zenodo.22131951
+**Cite as:** Garbán Hernández, A. (2026). *BEHAVIORAL ARCHITECTURE FOR DIGITAL DUTY OF CARE*. SSFLABS. https://doi.org/10.5281/zenodo.22131951
 
 # BEHAVIORAL ARCHITECTURE FOR DIGITAL DUTY OF CARE
 ### A Triple Shield Framework & The Wellbeing Passport Protocol
