@@ -1,4 +1,4 @@
-![SSFLABS Logo](IMG-20260827-WA5271.jpg)
+![SSFLABS Logo](assets-ssflabs-logo.jpg)
 
 # BEHAVIORAL ARCHITECTURE FOR DIGITAL DUTY OF CARE
 ### A Triple Shield Framework & The Wellbeing Passport Protocol
