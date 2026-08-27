@@ -1,7 +1,7 @@
 # BEHAVIORAL ARCHITECTURE FOR DIGITAL DUTY OF CARE
 ### A Triple Shield Framework & The Wellbeing Passport Protocol
 
-**SSFLAB Research Vol. 1 | FILIGRANA MAGAZINE — VOL. I**
+**SSFLAB Research Vol. 1 | SSFLABS**
 **27 de Agosto 2026 | Andrés Garbán Hernández**
 
 > El acuerdo de $18 mil millones entre Meta y 52 Fiscales Generales (agosto 2026) no es un final, es el inicio de un nuevo estándar: **Duty of Care by Design.**
@@ -10,8 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![Meta Case](https://img.shields.io/badge/Meta-$18B_Settlement-red)](https://github.com/ssfactorylabel/ssflab-meta-triple-shield)
 
-![FILIGRANA VOL I - WHAT MAKES YOUR HEART BEAT?](assets/filigrana-cover.png)
-
+![ SSFLABS - WHAT MAKES YOUR HEART BEAT?]
 ### 📰 ABSTRACT
 
 Este repo operacionaliza el paper **Ssflabs_meta_case_1.pdf**. La orden de $18B deja 3 vacíos: migración cross-platform, alucinación autoritaria de IA, y la ineficacia de una fundación tradicional.
