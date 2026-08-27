@@ -1,0 +1,17 @@
+{
+  "name": "meta-18b-duty-of-care-protocol",
+  "version": "1.0.0",
+  "description": "Triple Shield Framework + Wellbeing Passport Protocol - Behavioral Architecture for Duty of Care by Design. SSFLAB Vol I / Filigrana",
+  "main": "src/passport/wellbeing_passport.ts",
+  "scripts": {
+    "test-passport": "ts-node src/passport/wellbeing_passport.ts",
+    "test-autoplay": "python3 src/protocols/autoplay_protocol.py"
+  },
+  "keywords": ["duty-of-care", "meta", "wellbeing-passport", "ssflab", "filigrana", "digital-trust"],
+  "author": "Andres Garban Hernandez - SSFACTORY LABEL",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssfactorylabel/meta-18B-duty-of-care-procol"
+  }
+}
